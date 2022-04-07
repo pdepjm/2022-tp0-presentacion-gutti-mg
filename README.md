@@ -1,5 +1,5 @@
 ![mi foto](MarianoFotoMeet.jpg)
-# Presentación
+# Presentación: Hola! Soy Gutti y tengo 20 años. Me gusta andar en bici, la natación y la pizza.
 
 ## Estudiante: Mariano Gutierrez 
 
