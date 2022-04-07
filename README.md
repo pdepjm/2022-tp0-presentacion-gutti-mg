@@ -1,3 +1,4 @@
+![mi foto](MarianoFotoMeet.jpg)
 # Presentación
 
 ## Estudiante: Mariano Gutierrez 
